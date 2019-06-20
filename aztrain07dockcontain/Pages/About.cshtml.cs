@@ -12,7 +12,7 @@ namespace aztrain07dockcontain.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "ContainerTest1";
         }
     }
 }
